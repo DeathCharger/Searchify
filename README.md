@@ -1,3 +1,5 @@
+![Banner](https://dbl-static.b-cdn.net/f50b1d02770c5771b4a1a57e5b551148.png)
+
 # Searchify
 Searchify is an amazing bot if you are a person who loves Anime or plays Minecraft or doesn't like to leave Discord and open browser to search something. Searchify does it all !
 
@@ -5,6 +7,12 @@ The main purpose of Searchify is to unify the Anime searching and Minecraft data
 
 To start of the default prefix is `!`. The prefix can be changed using `!prefix`. You can get the
 current prefix by pinging the bot
+
+**Invite Searchify** : [Click here to invite](https://discord.com/oauth2/authorize?client_id=882261028484821084&permissions=18410560&scope=bot)
+
+**Support Server** : [Click here to open invite link](https://discord.gg/3qTY9JdQ6z)
+
+
 
 > Note: `!` used in all the commands  is the default prefix. You can change the prefix anytime
 
@@ -46,7 +54,9 @@ Searchify also has other commands:
 * `!achievement` to generate a Minecraft achievement
 * `!getinvite` to get invite of any bot in the server. You can also set permissions for the invite
 
-** If you have any feedbacks or suggestions, drop in the support server. For support server invite use `!invite`. **
+![discordbotlist](https://discordbotlist.com/api/v1/bots/882261028484821084/widget)
+
+**If you have any feedbacks or suggestions, drop in the support server. For support server invite use `!invite`.**
 
 
 
